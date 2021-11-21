@@ -27,5 +27,4 @@ Schema: plan
 2-Conceptual Schema:Representation of entire content of Database.
 3-External Level:Proper interface between user and database.
 3-External Schema:Defination of various external data types.
-
-
+               BY-Khan Omar
