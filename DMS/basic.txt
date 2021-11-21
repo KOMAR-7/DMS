@@ -1,0 +1,31 @@
+Data:fact and figure that can be recorded in a system.
+     (//information)
+Database:Collection of related data stored at one place.
+         (//collection of information).
+The heart of information system is DMS.
+Characteristics of DMS.:
+1-Data intergrity(truthness,consistency).
+2-Data Security.(secure)
+3-Data Independence:Capacity to change data kept at one place without changing the data at another place.
+4-Transaction control-rollback:The changes made can be reverted.
+5-Concurrency control:the data in Database can be accessed by multiple user at same time.
+6-Data recovery backup:restoring database to original state.
+
+DMS Advantage:
+-Multiple access.
+-Computarized record keeping
+-Easy retrival of data.
+-Unauthorized user access is restricted.
+-Redundancy can be controlled.(Duplicates data)//main point
+
+Database architecture:-
+Schema: plan
+3 level architecture of Database
+1-Internal/physical level:Physical Storage stucture.
+1-Internal/physical Schema:Describes Data Types,specifies indexes.
+2-Conceptual View:Hide internal data.
+2-Conceptual Schema:Representation of entire content of Database.
+3-External Level:Proper interface between user and database.
+3-External Schema:Defination of various external data types.
+
+
